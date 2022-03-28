@@ -35,7 +35,11 @@ SobelConv，BayarConv：[dong03/MVSS-Net: code for Image Manipulation Detection 
 
 }+Unet
 
-## 预滤波模块消融实验
+## 网络结构
+
+![](./images/Unet.jpg)
+
+## 预滤波模块消融实验（IOU/F1）
 
 |       Networks       |      DVI      |     CPNET     |      OPN      |     STTN      |     DSTT      |     FUSE      |
 | :------------------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
